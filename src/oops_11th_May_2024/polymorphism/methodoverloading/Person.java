@@ -1,4 +1,4 @@
-package oops_11th_May_2024.polymorphism;
+package oops_11th_May_2024.polymorphism.methodoverloading;
 
 public class Person {
 
@@ -11,7 +11,8 @@ public class Person {
         return x;
     }
 
-    void gift(double x){
+    void gift(double x)
+    {
         System.out.println("X is a double " + x);
     }
 

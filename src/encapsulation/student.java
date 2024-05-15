@@ -1,4 +1,12 @@
-package oops_9th_May_2024;
+package encapsulation;
 
-public class encapsulation {
+public class student {
+
+    String name;
+    int age;
+
+
+    void print(){
+        System.out.println(name + age);
+    }
 }

@@ -1,2 +1,8 @@
-package multilevel;public class Father {
+package multilevel;
+
+public class Father extends GrandFather{
+
+    void bhk2(){
+        System.out.println("2BHK");
+    }
 }

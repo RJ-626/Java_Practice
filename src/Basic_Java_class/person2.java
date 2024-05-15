@@ -1,3 +1,5 @@
+package Basic_Java_class;
+
 public class person2 {
 
     String name;

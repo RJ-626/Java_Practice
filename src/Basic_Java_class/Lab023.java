@@ -1,3 +1,5 @@
+package Basic_Java_class;
+
 public class Lab023 {
         public static void main(String[] args) {
 

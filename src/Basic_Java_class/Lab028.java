@@ -1,3 +1,5 @@
+package Basic_Java_class;
+
 public class Lab028 {
     public static void main(String[] Rahul) {
     print("Hello");

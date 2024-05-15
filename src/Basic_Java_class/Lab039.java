@@ -1,4 +1,4 @@
-import java.util.Scanner;
+package Basic_Java_class;
 
 public class Lab039 {
     public static void main(String[] args) {

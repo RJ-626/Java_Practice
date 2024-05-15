@@ -1,3 +1,5 @@
+package Basic_Java_class;
+
 import java.util.Scanner;
 
 public class Lab019 {
